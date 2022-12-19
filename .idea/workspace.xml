@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="98bf855a-8731-463b-8db5-df27bb406fc5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/client.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/io/github/sdamico12/wordle/client/ClientMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final_project.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/server.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/io/github/sdamico12/wordle/server/ServerMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/io/github/sdamico12/wordle/server/account/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/io/github/sdamico12/wordle/server/account/AccountBlock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/io/github/sdamico12/wordle/server/account/AccountManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/io/github/sdamico12/wordle/server/config/CEntries.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/io/github/sdamico12/wordle/server/config/ConfigManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/io/github/sdamico12/wordle/server/connections/ConnectionBlockHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/io/github/sdamico12/wordle/server/connections/ConnectionHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/io/github/sdamico12/wordle/server/connections/ConnectionManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/io/github/sdamico12/wordle/server/connections/states/ConnectionState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/io/github/sdamico12/wordle/server/connections/states/exceptions/AbortionState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/io/github/sdamico12/wordle/server/connections/states/exceptions/NotifyState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/io/github/sdamico12/wordle/server/connections/states/exceptions/StateProtocolException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/io/github/sdamico12/wordle/server/connections/states/wordlestates/WordleHandshakeState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/io/github/sdamico12/wordle/server/connections/states/wordlestates/WordleLobbyState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/io/github/sdamico12/wordle/server/connections/states/wordlestates/WordleLoginState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/io/github/sdamico12/wordle/server/game_engine/GameEngine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/io/github/sdamico12/wordle/server/game_engine/SubmittedTryResult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/io/github/sdamico12/wordle/server/game_engine/WordUpdateTask.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="1nhmmkk6" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2IUgRDqxsBEu9UvimAglgACwwSa" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;19&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="98bf855a-8731-463b-8db5-df27bb406fc5" name="Changes" comment="" />
+      <created>1670241573352</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1670241573352</updated>
+      <workItem from="1670241574573" duration="11822000" />
+      <workItem from="1670315867373" duration="2527000" />
+      <workItem from="1670352033515" duration="4834000" />
+      <workItem from="1670405197658" duration="13872000" />
+      <workItem from="1670496243657" duration="5564000" />
+      <workItem from="1671472843257" duration="579000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
