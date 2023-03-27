@@ -22,6 +22,8 @@ public class GameEngine {
 	private String currentWord = null;
 	private final List<String> vocabulary;
 
+	private Broadcaster broadcaster;
+
 	private GameEngine() throws IOException {
 		configManager = ConfigManager.getManager();
 		accountManager = AccountManager.getManager();
@@ -29,6 +31,7 @@ public class GameEngine {
 		service = Executors.newSingleThreadScheduledExecutor();
 		attemptsMap = new ConcurrentHashMap<>();
 		vocabulary = new ArrayList<>();
+		broadcaster = new Broadcaster();
 		Scanner vocScan = new Scanner(new FileInputStream("vocabulary.txt"));
 		while (vocScan.hasNextLine())
 			vocabulary.add(vocScan.nextLine());
@@ -81,6 +84,10 @@ public class GameEngine {
 
 	public synchronized void shareAttempts(Account sharingAccount){
 		List<SubmittedTryResult> attempts = getAccountAttempts(sharingAccount).stream().filter(Optional::isPresent).map(Optional::get).toList();
+	}
+
+	public Broadcaster getBroadcaster(){
+		return broadcaster;
 	}
 
 	private final ConfigManager configManager;

@@ -24,4 +24,15 @@ public class SubmittedTryResult {
 	public boolean wordWasValid() {
 		return word_was_valid;
 	}
+
+	public byte[] toBytes(){
+		byte[] res = new byte[12];
+		if(hint.isPresent()) {
+			byte[] helpBytes = hint.get().getBytes();
+			System.arraycopy(helpBytes, 0, res, 0, 10);
+		}
+		if(user_could_play) res[10] = 1;
+		if(word_was_valid)  res[11] = 1;
+		return res;
+	}
 }
