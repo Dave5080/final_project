@@ -5,35 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="98bf855a-8731-463b-8db5-df27bb406fc5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/client.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/io/github/sdamico12/wordle/client/ClientMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/final_project.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/server.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/src/io/github/sdamico12/wordle/server/ServerMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/src/io/github/sdamico12/wordle/server/account/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/src/io/github/sdamico12/wordle/server/account/AccountBlock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/src/io/github/sdamico12/wordle/server/account/AccountManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/src/io/github/sdamico12/wordle/server/config/CEntries.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/src/io/github/sdamico12/wordle/server/config/ConfigManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/src/io/github/sdamico12/wordle/server/connections/ConnectionBlockHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/src/io/github/sdamico12/wordle/server/connections/ConnectionHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/src/io/github/sdamico12/wordle/server/connections/ConnectionManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/src/io/github/sdamico12/wordle/server/connections/states/ConnectionState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/src/io/github/sdamico12/wordle/server/connections/states/exceptions/AbortionState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/src/io/github/sdamico12/wordle/server/connections/states/exceptions/NotifyState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/src/io/github/sdamico12/wordle/server/connections/states/exceptions/StateProtocolException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/src/io/github/sdamico12/wordle/server/connections/states/wordlestates/WordleHandshakeState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/src/io/github/sdamico12/wordle/server/connections/states/wordlestates/WordleLobbyState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/src/io/github/sdamico12/wordle/server/connections/states/wordlestates/WordleLoginState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/src/io/github/sdamico12/wordle/server/game_engine/GameEngine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/src/io/github/sdamico12/wordle/server/game_engine/SubmittedTryResult.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/src/io/github/sdamico12/wordle/server/game_engine/WordUpdateTask.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/src/io/github/sdamico12/wordle/server/game_engine/GameEngine.java" beforeDir="false" afterPath="$PROJECT_DIR$/server/src/io/github/sdamico12/wordle/server/game_engine/GameEngine.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,6 +67,9 @@
       <workItem from="1670405197658" duration="13872000" />
       <workItem from="1670496243657" duration="5564000" />
       <workItem from="1671472843257" duration="579000" />
+      <workItem from="1679929936934" duration="935000" />
+      <workItem from="1681563702252" duration="12000" />
+      <workItem from="1688903599407" duration="1188000" />
     </task>
     <servers />
   </component>

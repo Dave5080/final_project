@@ -5,9 +5,7 @@ import io.github.sdamico12.wordle.server.account.AccountManager;
 import io.github.sdamico12.wordle.server.config.CEntries;
 import io.github.sdamico12.wordle.server.config.ConfigManager;
 
-import java.io.BufferedReader;
 import java.io.FileInputStream;
-import java.io.FileReader;
 import java.io.IOException;
 import java.util.*;
 import java.util.concurrent.*;
